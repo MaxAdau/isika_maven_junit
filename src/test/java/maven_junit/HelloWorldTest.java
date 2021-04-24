@@ -7,8 +7,11 @@ import org.junit.jupiter.api.Test;
 class HelloWorldTest {
 
 	@Test
-	void test() {
-		fail("Not yet implemented");
+	void HelloWorldAssertionTest() {
+		// Dummy assertion used to validate our project installation
+		assertTrue(true);
 	}
+	
+
 
 }
